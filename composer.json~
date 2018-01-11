@@ -1,0 +1,15 @@
+{
+    "name": "vladislavsm/logger",
+    "description": "Education logger",
+    "type": "library",
+    "authors": [
+        {
+            "name": "VladislavSM",
+            "email": "vlm96443@gmail.com"
+        }
+    ],
+    "require": {
+        "monolog/monolog": "^1.23",
+        "involvedpanda/comptrain": "dev-master"
+    }
+}
