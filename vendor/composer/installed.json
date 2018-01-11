@@ -151,5 +151,32 @@
         "installation-source": "source",
         "notification-url": "https://packagist.org/downloads/",
         "description": "my first composer repos"
+    },
+    {
+        "name": "pakharenko/pro-web",
+        "version": "dev-master",
+        "version_normalized": "9999999-dev",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/Pakharenko/composer-pack.git",
+            "reference": "dc8b4e38152c98238202438b7d7ebba64165d643"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/Pakharenko/composer-pack/zipball/dc8b4e38152c98238202438b7d7ebba64165d643",
+            "reference": "dc8b4e38152c98238202438b7d7ebba64165d643",
+            "shasum": ""
+        },
+        "time": "2018-01-11T19:40:50+00:00",
+        "type": "library",
+        "installation-source": "source",
+        "notification-url": "https://packagist.org/downloads/",
+        "authors": [
+            {
+                "name": "Pakharenko Evgene",
+                "email": "paharenko1985@mail.ru"
+            }
+        ],
+        "description": "Shop project"
     }
 ]
