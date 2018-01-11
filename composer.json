@@ -11,8 +11,6 @@
     ],
     "require": {
         "monolog/monolog": "^1.23",
-        "involvedpanda/comptrain": "dev-master",
-        "pakharenko/pro-web": "dev-master",
-        "vladislavsm/logger": "dev-master"
+        "pakharenko/pro-web": "dev-master"
     }
 }

@@ -4,30 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "cb8a39831ecb4a04f0e44d5a7085a0e5",
+    "content-hash": "c4e332276b8e0da25a3cd190bfcea3bd",
     "packages": [
-        {
-            "name": "involvedpanda/comptrain",
-            "version": "dev-master",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/InvolvedPanda/logger.git",
-                "reference": "3938e27eeac1290ef109e5d28c04773c8241676e"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/InvolvedPanda/logger/zipball/3938e27eeac1290ef109e5d28c04773c8241676e",
-                "reference": "3938e27eeac1290ef109e5d28c04773c8241676e",
-                "shasum": ""
-            },
-            "require": {
-                "monolog/monolog": "^1.23"
-            },
-            "type": "library",
-            "notification-url": "https://packagist.org/downloads/",
-            "description": "my first composer repos",
-            "time": "2018-01-10 14:15:51"
-        },
         {
             "name": "monolog/monolog",
             "version": "1.23.0",
@@ -183,7 +161,6 @@
     "aliases": [],
     "minimum-stability": "stable",
     "stability-flags": {
-        "involvedpanda/comptrain": 20,
         "pakharenko/pro-web": 20
     },
     "prefer-stable": false,

@@ -129,30 +129,6 @@
         ]
     },
     {
-        "name": "involvedpanda/comptrain",
-        "version": "dev-master",
-        "version_normalized": "9999999-dev",
-        "source": {
-            "type": "git",
-            "url": "https://github.com/InvolvedPanda/logger.git",
-            "reference": "3938e27eeac1290ef109e5d28c04773c8241676e"
-        },
-        "dist": {
-            "type": "zip",
-            "url": "https://api.github.com/repos/InvolvedPanda/logger/zipball/3938e27eeac1290ef109e5d28c04773c8241676e",
-            "reference": "3938e27eeac1290ef109e5d28c04773c8241676e",
-            "shasum": ""
-        },
-        "require": {
-            "monolog/monolog": "^1.23"
-        },
-        "time": "2018-01-10T14:15:51+00:00",
-        "type": "library",
-        "installation-source": "source",
-        "notification-url": "https://packagist.org/downloads/",
-        "description": "my first composer repos"
-    },
-    {
         "name": "pakharenko/pro-web",
         "version": "dev-master",
         "version_normalized": "9999999-dev",
