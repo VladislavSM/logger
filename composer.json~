@@ -11,6 +11,6 @@
     ],
     "require": {
         "monolog/monolog": "^1.23",
-        "pakharenko/pro-web": "dev-master",
+        "pakharenko/pro-web": "dev-master"
     }
 }

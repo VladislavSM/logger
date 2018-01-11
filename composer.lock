@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "c4e332276b8e0da25a3cd190bfcea3bd",
+    "content-hash": "7bcb856fb8d2c043148bf70822d79964",
     "packages": [
         {
             "name": "monolog/monolog",
@@ -85,31 +85,6 @@
             "time": "2017-06-19T01:22:40+00:00"
         },
         {
-            "name": "pakharenko/pro-web",
-            "version": "dev-master",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/Pakharenko/composer-pack.git",
-                "reference": "dc8b4e38152c98238202438b7d7ebba64165d643"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/Pakharenko/composer-pack/zipball/dc8b4e38152c98238202438b7d7ebba64165d643",
-                "reference": "dc8b4e38152c98238202438b7d7ebba64165d643",
-                "shasum": ""
-            },
-            "type": "library",
-            "notification-url": "https://packagist.org/downloads/",
-            "authors": [
-                {
-                    "name": "Pakharenko Evgene",
-                    "email": "paharenko1985@mail.ru"
-                }
-            ],
-            "description": "Shop project",
-            "time": "2018-01-11 19:40:50"
-        },
-        {
             "name": "psr/log",
             "version": "1.0.2",
             "source": {
@@ -160,9 +135,7 @@
     "packages-dev": [],
     "aliases": [],
     "minimum-stability": "stable",
-    "stability-flags": {
-        "pakharenko/pro-web": 20
-    },
+    "stability-flags": [],
     "prefer-stable": false,
     "prefer-lowest": false,
     "platform": [],

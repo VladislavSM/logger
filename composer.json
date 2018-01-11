@@ -2,7 +2,6 @@
     "name": "vladislavsm/logger",
     "description": "Education logger",
     "type": "library",
-    "minimum-stability": "stable",
     "authors": [
         {
             "name": "VladislavSM",
@@ -10,7 +9,6 @@
         }
     ],
     "require": {
-        "monolog/monolog": "^1.23",
-        "pakharenko/pro-web": "dev-master"
+        "monolog/monolog": "^1.23"
     }
 }
